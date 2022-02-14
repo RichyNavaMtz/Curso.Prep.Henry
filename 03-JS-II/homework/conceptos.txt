@@ -1,0 +1,7 @@
+ `for`
+    un bucle que nos sirve para repetir una accion un numero determinado de veces
+
+ `&&`, `||`, `!` 
+    && es el operador AND y quiere decir que se deben cumplir ambas condiciones para que devuelva true
+    || OR quiere decir que con que una condicion se cumple devuelve true
+    ! NOT transforma el booleano de true a false y viceversa 
