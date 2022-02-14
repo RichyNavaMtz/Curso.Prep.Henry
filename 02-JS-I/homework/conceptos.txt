@@ -1,0 +1,17 @@
+* Variables
+    son espacios de memoria en la que podemos almacenar algun dato
+
+* Strings
+    son bloques de texto y se usa " " o ' ' para identificarlos
+
+* Funciones (argumentos, `return`)
+    una funcion es un conjunto de codigo que se ejecuta cuando es llamado
+    siempre empiezan con la palabra reservada 'funcion' seguida del nombre de la misma.
+    los argumentos son datos que podemos tomar en cuenta a la hora de ejecutar el codigo dentro de la funcion
+    y el return es la palabra reservada que usamos para indicar el resultado que debe arrojar la funcion
+
+* Declaraciones `if`
+    es un condicional que evalua si se cumple o no alguna condicion
+
+* Valores booleanos (`true`, `false`)
+    palabras reservadas que expresan si alguna expresion es cierto (true) o falso (falso)
