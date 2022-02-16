@@ -1,0 +1,29 @@
+.divClass{
+    
+    width: 700px;
+    margin: 0 auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+#thirdDiv{
+    width: 700px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: black;
+ 
+    
+    
+}
+h1{
+    color:crimson;
+}
+img{
+    width: 400px;
+}
